@@ -12,6 +12,4 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div> <image>![certificado](https://github.com/user-attachments/assets/0297b031-6391-41d5-b3ef-721415f12462)
-</image></div>
  
